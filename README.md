@@ -58,6 +58,8 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 1. F. Z. Iguenfer, A. Hsain, H. Amissa, and Y. Chtouki, "Point cloud to mesh reconstruction: A focus on key learning-based paradigms," School of Science and Engineering, Al Akhawayn University, Ifrane, Morocco.
 2.  Florent Poux, "5-Step Guide to Generate 3D Meshes from Point Clouds with Python," 2023. [Online].
 
+**Test files:**
+Since GitHub free version doesn't allow files above 25MB, use this link to download the sample files that were used to implement this program: https://drive.google.com/drive/folders/18X2kSOcFMKkZLnzxCQbbNFFOxBOyrdFk?usp=sharing
 
 **Cross-Platform Note**: While core functionality works universally, file dialogs/paths auto-adapt to OS conventions.
 
