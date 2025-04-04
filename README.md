@@ -57,13 +57,20 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 **Research and References:**
 1. F. Z. Iguenfer, A. Hsain, H. Amissa, and Y. Chtouki, "Point cloud to mesh reconstruction: A focus on key learning-based paradigms," School of Science and Engineering, Al Akhawayn University, Ifrane, Morocco.
 2.  Florent Poux, "5-Step Guide to Generate 3D Meshes from Point Clouds with Python," 2023. [Online].
+3.  C. R. Qi, H. Su, K. Mo, and L. J. Guibas, "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation," in 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, USA, 2017, pp. 652-660, doi: 10.1109/CVPR.2017.16.
+4.  C. R. Qi, L. Yi, H. Su, and L. J. Guibas, "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space," in Advances in Neural Information Processing Systems (NeurIPS), 2017, pp. 5099–5108.
+5.  S. V. Sheshappanavar and C. Kambhamettu, "A Novel Local Geometry Capture in Pointnet++ for 3D Classification," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 1059-1068, doi: 10.1109/CVPRW50498.2020.00139.
+
+
+
+Key Components in IEEE Format:
 
 **Test files:**
-Since GitHub free version doesn't allow files above 25MB, use this link to download the sample files that were used to implement this program: https://drive.google.com/drive/folders/18X2kSOcFMKkZLnzxCQbbNFFOxBOyrdFk?usp=sharing
+Since GitHub's free version doesn't allow files above 25MB, use this link to download the sample files that were used to implement this program: https://drive.google.com/drive/folders/18X2kSOcFMKkZLnzxCQbbNFFOxBOyrdFk?usp=sharing
 
 **Cross-Platform Note**: While core functionality works universally, file dialogs/paths auto-adapt to OS conventions.
 
-## Presented by:
+## Presented by
 
 - Priyanshu Tiwari - Project Lead & Algorithm Developer - 3rd Year AI/ML student at Sir M Visvesvaraya Institute of Technology
 - N Ram Srujan Raj - 3D Parsing Specialist & Core Engineer - 1st Year CSE student at Sir M Visvesvaraya Institute of Technology
