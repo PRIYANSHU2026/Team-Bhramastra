@@ -60,7 +60,7 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 
 ![rotating_3d_view](https://github.com/user-attachments/assets/0c65f7aa-8669-4e17-b437-c205b32bac88)
 
-<img width="1710" alt="Screenshot 2025-04-04 at 7 14 12 AM" src="https://github.com/user-attachments/assets/c22c0655-5f29-4407-9f6a-facf7599bb99" />
+<img width="710" alt="Screenshot 2025-04-04 at 7 14 12 AM" src="https://github.com/user-attachments/assets/c22c0655-5f29-4407-9f6a-facf7599bb99" />
 
 ![rotating_3d_view](https://github.com/user-attachments/assets/2001add9-ddc3-4822-be69-f0dad543c821)
 
