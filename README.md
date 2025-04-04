@@ -74,6 +74,7 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 
 # Ball pivoting Mesh 
 <img width="710" alt="Screenshot 2025-04-04 at 7 25 36 AM" src="https://github.com/user-attachments/assets/42934936-fafb-4f57-93ee-e8804f6f6ba0" />
+
 ![Ball Pivoting](https://github.com/user-attachments/assets/91a06958-1474-4c9e-9d72-2a6440bf6d8c)
 
 # compare Meshes
