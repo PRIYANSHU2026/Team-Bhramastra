@@ -56,10 +56,12 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 
 **Demo** 
 
+# Raw Point Cloud 
 <img width="710" alt="Screenshot 2025-04-04 at 7 13 29 AM" src="https://github.com/user-attachments/assets/ec15775a-d14b-4510-a129-4849432fca6a" />
 
 ![rotating_3d_view](https://github.com/user-attachments/assets/0c65f7aa-8669-4e17-b437-c205b32bac88)
 
+# point cloud with poisson Mesh
 <img width="710" alt="Screenshot 2025-04-04 at 7 14 12 AM" src="https://github.com/user-attachments/assets/c22c0655-5f29-4407-9f6a-facf7599bb99" />
 
 ![rotating_3d_view](https://github.com/user-attachments/assets/2001add9-ddc3-4822-be69-f0dad543c821)
