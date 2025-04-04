@@ -54,8 +54,10 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 - Addition of voxel downsampling and/or advanced noise reduction 
 - Implementation of Deep learning concepts to make a "one-size-fits-all" solution for increased robustness
 
-**Demo video:-** 
-[2025-04-04_01:56:48_video.MP4](Demo%20video/2025-04-04_01%3A56%3A48_video.MP4)![img.png](img.png)
+**Demo** 
+![rotating_3d_view](https://github.com/user-attachments/assets/0c65f7aa-8669-4e17-b437-c205b32bac88)
+
+
 
 **Research and References:**
 1. F. Z. Iguenfer, A. Hsain, H. Amissa, and Y. Chtouki, "Point cloud to mesh reconstruction: A focus on key learning-based paradigms," School of Science and Engineering, Al Akhawayn University, Ifrane, Morocco.
