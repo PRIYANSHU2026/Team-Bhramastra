@@ -55,6 +55,9 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 - Implementation of Deep learning concepts to make a "one-size-fits-all" solution for increased robustness
 
 **Demo** 
+
+<img width="710" alt="Screenshot 2025-04-04 at 7 13 29 AM" src="https://github.com/user-attachments/assets/ec15775a-d14b-4510-a129-4849432fca6a" />
+
 ![rotating_3d_view](https://github.com/user-attachments/assets/0c65f7aa-8669-4e17-b437-c205b32bac88)
 
 
